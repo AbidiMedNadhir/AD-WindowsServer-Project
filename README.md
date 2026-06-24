@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a0a0a,100:6b1010&height=200&section=header&text=Windows%20Server%202019&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Active%20Directory%20Administration%20%26%20Security&descSize=18&descAlignY=60&descFontColor=e63946" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:1a0a0a,100:6b1010&amp;height=200&amp;section=header&amp;text=Windows%20Server%202019&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Active%20Directory%20Administration%20%26%20Security&amp;descSize=18&amp;descAlignY=60&amp;descFontColor=e63946" width="100%"/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Platform-Windows%20Server%202019-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Domain-Active%20Directory-e63946?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Platform-Windows%20Server%202019-0078D6?style=for-the-badge&amp;logo=windows&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/Domain-Active%20Directory-e63946?style=for-the-badge&amp;logo=microsoft&amp;logoColor=white"/>
   <img src="https://img.shields.io/badge/Status-Completed-2ea043?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Environment-Lab%20%2F%20Academic-6b1010?style=for-the-badge"/>
 </p>
@@ -35,10 +35,8 @@ The work covers the full lifecycle: from bare-metal server setup and domain crea
 ```
 AD-WindowsServer-Project/
 ├── README.md
-├── report/
-│   └── Project_Report_AD.pdf          # Full technical report (34 pages)
-└── attack-simulation/
-    └── Kerberoasting_Mimikatz_AD.pdf  # Attack simulation presentation
+├── Project Report AD.pdf                                        # Full technical report (34 pages)
+└── Kerberoasting & Mimikatz Active Directory Attack Simulation.pdf  # Attack simulation presentation
 ```
 
 ---
@@ -188,8 +186,8 @@ Mimikatz is a post-exploitation tool used to extract plaintext passwords, NTLM h
 
 | Document | Description |
 |----------|-------------|
-| [`report/Project_Report_AD.pdf`](./report/Project_Report_AD.pdf) | Full 34-page technical lab report with screenshots |
-| [`attack-simulation/Kerberoasting_Mimikatz_AD.pdf`](./attack-simulation/Kerberoasting_Mimikatz_AD.pdf) | Attack simulation slide deck |
+| [`Project Report AD.pdf`](./Project%20Report%20AD.pdf) | Full 34-page technical lab report with screenshots |
+| [`Kerberoasting & Mimikatz Active Directory Attack Simulation.pdf`](./Kerberoasting%20%26%20Mimikatz%20Active%20Directory%20Attack%20Simulation.pdf) | Attack simulation slide deck |
 
 ---
 
@@ -216,4 +214,4 @@ Mimikatz is a post-exploitation tool used to extract plaintext passwords, NTLM h
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6b1010,50:1a0a0a,100:0d1117&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6b1010,50:1a0a0a,100:0d1117&amp;height=120&amp;section=footer" width="100%"/>
