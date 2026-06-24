@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a0a0a,100:6b1010&height=200&section=header&text=Windows%20Server%202019&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Active%20Directory%20Administration%20%2526%20Security&descSize=18&descAlignY=60&descFontColor=e63946)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a0a0a,100:6b1010&height=200&section=header&text=Windows%20Server%202019&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Active%20Directory%20Administration%20%26%20Security&descSize=18&descAlignY=60&descFontColor=e63946)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Windows%20Server%202019-0078D6?style=for-the-badge&amp;logo=windows&amp;logoColor=white"/>
