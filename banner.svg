@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="50%" style="stop-color:#3d0808"/>
+      <stop offset="100%" style="stop-color:#6b1010"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="200" fill="url(#bg)"/>
+  <path d="M0,150 C150,120 300,170 450,145 C600,120 750,165 900,145 L900,200 L0,200 Z" fill="#0d1117" opacity="0.6"/>
+  <path d="M0,170 C200,145 400,175 600,158 C750,145 850,168 900,162 L900,200 L0,200 Z" fill="#0d1117" opacity="0.8"/>
+  <text x="450" y="92" font-family="Segoe UI,Arial,sans-serif" font-size="44" font-weight="bold" fill="#ffffff" text-anchor="middle">Windows Server 2019</text>
+  <text x="450" y="132" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="600" fill="#e63946" text-anchor="middle">Active Directory Administration &amp; Security</text>
+</svg>
