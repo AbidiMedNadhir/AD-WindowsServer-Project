@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:1a0a0a,100:6b1010&amp;height=200&amp;section=header&amp;text=Windows%20Server%202019&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Active%20Directory%20Administration%20%26%20Security&amp;descSize=18&amp;descAlignY=60&amp;descFontColor=e63946" width="100%"/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a0a0a,100:6b1010&height=200&section=header&text=Windows%20Server%202019&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Active%20Directory%20Administration%20%2526%20Security&descSize=18&descAlignY=60&descFontColor=e63946)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Windows%20Server%202019-0078D6?style=for-the-badge&amp;logo=windows&amp;logoColor=white"/>
@@ -214,4 +214,4 @@ Mimikatz is a post-exploitation tool used to extract plaintext passwords, NTLM h
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6b1010,50:1a0a0a,100:0d1117&amp;height=120&amp;section=footer" width="100%"/>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:6b1010,50:1a0a0a,100:0d1117&height=120&section=footer)
